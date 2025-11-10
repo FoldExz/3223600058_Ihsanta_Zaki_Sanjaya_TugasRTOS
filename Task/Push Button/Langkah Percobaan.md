@@ -65,3 +65,9 @@
 
 ---
 
+## Gambar Demo
+<img width="1920" height="1080" alt="Gambar Percobaan" src="https://github.com/user-attachments/assets/66556065-493c-49e1-906f-3b4dec74ac3b" />
+
+## Video Demo
+https://github.com/user-attachments/assets/dba4cc20-97e7-4129-bad6-7e2b9bb36b55
+
