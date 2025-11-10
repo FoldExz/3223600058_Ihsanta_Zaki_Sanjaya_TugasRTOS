@@ -67,10 +67,11 @@ Simulasi berhasil menunjukkan pembagian tugas **Dual-Core FreeRTOS** pada ESP32-
 * Pergantian core dikendalikan secara real-time lewat input serial.
 
 ## Gambar Demo
-<img width="1920" height="1080" alt="Gambar Percobaan" src="https://github.com/user-attachments/assets/20f610a8-09a0-4e1e-8513-98f6fa585805" />
+<img width="1920" height="1080" alt="Gambar Percobaan" src="https://github.com/user-attachments/assets/49ae6cbb-ba62-41ee-994f-d4e4801b4a67" />
 
 ## Video Demo
-https://github.com/user-attachments/assets/f568eae7-35b1-4b90-aa40-a134e2ab5a6d
+https://github.com/user-attachments/assets/9fad0777-ae8f-4e7c-8bf2-a9fbd6636601
+
 
 
 
