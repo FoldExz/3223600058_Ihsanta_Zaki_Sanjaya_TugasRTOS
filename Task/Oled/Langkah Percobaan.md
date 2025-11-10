@@ -65,3 +65,12 @@ Simulasi berhasil menunjukkan pembagian tugas **Dual-Core FreeRTOS** pada ESP32-
 * **Core 0** dan **Core 1** menjalankan task OLED terpisah.  
 * Hanya task dari core yang **aktif** yang boleh menulis ke OLED (sinkronisasi via **mutex**).  
 * Pergantian core dikendalikan secara real-time lewat input serial.
+
+## Gambar Demo
+<img width="1920" height="1080" alt="Gambar Percobaan" src="https://github.com/user-attachments/assets/20f610a8-09a0-4e1e-8513-98f6fa585805" />
+
+## Video Demo
+https://github.com/user-attachments/assets/f568eae7-35b1-4b90-aa40-a134e2ab5a6d
+
+
+
