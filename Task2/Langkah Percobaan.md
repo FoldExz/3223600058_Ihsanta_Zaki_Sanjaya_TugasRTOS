@@ -316,8 +316,11 @@ Percobaan ini berhasil mengimplementasikan:
 ```
 
 ### Screenshot Serial Monitor
+<img width="1920" height="1080" alt="Gambar Percobaan" src="https://github.com/user-attachments/assets/31375a03-f261-4d16-beb7-7e84dd11626e" />
 
 ### Video Demo
+https://github.com/user-attachments/assets/cb238fac-902f-4624-b12d-f9622e393713
+
 
 ---
 
